@@ -1,11 +1,11 @@
 # Site settings
 author: Joshua Richards
-title: Back end languages 
+title: language Kung Fu
 header-img: img/home-bg.png
 email: jermain119@gmail.com
 copyright_name: Joshua Richards
 description: > # this means to ignore newlines until "baseurl:"
-  Back end journey for beginners . 
+  Back end  journey for beginners . 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: joshuar20718417
 github_username:  jermain119
