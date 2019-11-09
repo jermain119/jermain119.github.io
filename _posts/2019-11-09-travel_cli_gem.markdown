@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "travel cli gem "
-date:       2019-11-09 20:37:40 +0000
+date:       2019-11-09 15:37:43 -0500
 permalink:  travel_cli_gem
 ---
 
