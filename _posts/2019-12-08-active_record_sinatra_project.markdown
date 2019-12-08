@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ACTIVE RECORD SINATRA PROJECT"
-date:       2019-12-08 17:52:33 +0000
+date:       2019-12-08 12:52:34 -0500
 permalink:  active_record_sinatra_project
 ---
 
