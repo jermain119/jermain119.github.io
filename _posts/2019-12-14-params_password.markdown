@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "PARAMS[:PASSWORD]"
+title:      "PARAMS[:Hash]"
 date:       2019-12-14 13:13:11 -0500
 permalink:  params_password
 ---
