@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript const misleading"
-date:       2020-04-22 19:32:36 +0000
+date:       2020-04-22 15:32:37 -0400
 permalink:  javascript_const_misleading
 ---
 
